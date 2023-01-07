@@ -10,8 +10,9 @@
 
 ## Development Videos
 
-<h4 align="center">
-  These 2 videos shows the process of developing the game and AI Enemy. 
+<div align="center">
+  
+  <h3> These 2 videos shows the process of developing the game and AI Enemy. </h3>
 
   <p> Teaching NPC to Follow the Player if the player is not occluded from NPC's View </p>  
   <a href="https://www.youtube.com/watch?v=6QzBiLXLpVc"><img src="https://img.youtube.com/vi/6QzBiLXLpVc/0.jpg" alt="Video Thumbnail"></a>
@@ -19,4 +20,4 @@
   <p> Teaching NPC Shoot if the player is in range if not come closer </p>
   <a href="https://www.youtube.com/watch?v=JUqj-FbyssM"><img src="https://img.youtube.com/vi/JUqj-FbyssM/0.jpg" alt="Video Thumbnail"></a>
 
-</h4>
+</div>
