@@ -12,7 +12,7 @@
 
 <h3> Process of developing the Enemy NPC. </h3>
 
-<div align="center">
+<div align="left-align">
 
   <p> Teaching NPC to Follow the Player if the player is not occluded from NPC's View </p>  
   <a href="https://www.youtube.com/watch?v=6QzBiLXLpVc"><img src="https://img.youtube.com/vi/6QzBiLXLpVc/0.jpg" alt="Video Thumbnail"></a>
