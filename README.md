@@ -1,11 +1,11 @@
-# Gameplay & # Development Videos
+# Gameplay & Development Videos
 
-<div align="right">
+<div align="center">
   <h3 > ShooterSegway KillEmAll Gamemode First Level </h3>
   <a href="https://www.youtube.com/watch?v=6ajnpDWujsA"><img src="https://img.youtube.com/vi/6ajnpDWujsA/0.jpg" alt="Video Thumbnail"></a>
 </div>
 
-<div align="right">
+<div align="center">
   <h3> Process of developing the Enemy NPC. </h3>
   
   <p> Teaching NPC to Follow the Player if the player is not occluded from NPC's View </p>  
