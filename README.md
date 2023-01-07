@@ -3,7 +3,7 @@
   # Gameplay Video 
   ShooterSegway KillEmAll Gamemode First Level
   
-  [![KillEmAll Gameplay](3.png)](https://youtu.be/6QzBiLXLpVc)
+  [![KillEmAll Gameplay]](https://youtu.be/6QzBiLXLpVc)
 
   ## Development Videos
   
