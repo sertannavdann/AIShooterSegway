@@ -2,6 +2,10 @@
 ShooterSegway KillEmAll Gamemode First Level
 
 <p align="center">
+  <a href="https://www.youtube.com/watch?v=6ajnpDWujsA"><img src="https://img.youtube.com/vi/6ajnpDWujsA/0.jpg" alt="Video Thumbnail"></a>
+</p>
+
+<p align="center">
   <iframe width="640" height="480" src="https://www.youtube.com/embed/6ajnpDWujsA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
